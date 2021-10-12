@@ -1,0 +1,27 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "An application that manages employees ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node /db/seeds.sql",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjunior1/EmployeeTracker.git"
+  },
+  "author": "Franklyn Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjunior1/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/fjunior1/EmployeeTracker#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql": "^2.18.1"
+  }
+}
