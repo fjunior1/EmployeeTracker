@@ -5,7 +5,7 @@ Application that tracks company employees
 ## DESCRIPTION
 
 ## TABLE OF CONTENTS
-- [DESCRIPTION] (#DESCRIPTION)
+- [DESCRIPTION] (#desciption)
 - [USER-STORY] (#User Story)
 - [ACCEPTANCE-CRITERIA] (#Acceptance Criteria)
 - [LINKS] (#LINKS)
